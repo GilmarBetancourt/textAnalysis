@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FindingStrings
-comment1.params=text\ strings
-comment1.target=int\ howMany(edu.duke.FileResource,\ edu.duke.FileResource)
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
